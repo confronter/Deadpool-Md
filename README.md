@@ -48,7 +48,7 @@
 
 ## `Generate Pair Code For Session`
 
-[Classic Pairing](https://replit.com/@pesguru02/Classic-Pairing)
+[Space Pairing](https://replit.com/@confrontermfisa/Space-pairing?s=app)
 
 # Instalasi
 ## Heroku Buildpack
