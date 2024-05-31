@@ -240,7 +240,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+        title : `⫹⸙⧉𝙎𝙋𝘼𝘾𝙀 𝘽𝙐𝙂⧉⸙⫺`,
         body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -326,7 +326,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙑3 彡★ `
+` ★彡 𝙎𝙋𝘼𝘾𝙀 𝘽𝙐𝙂 彡★ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
 
