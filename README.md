@@ -72,5 +72,9 @@ git clone https://github.com/Confronter/Deadpool-Md
 cd Deadpool-Md
 npm start
 ```
-##  Developer
-  - [**Follow Instagram**]
+## 💀 Developer
+
+  - [**Follow Instagram**](https://instagram.com/confronter._)
+- [**WhatsApp Me**](https://wa.me/254796283064)
+  ## THANKS✝️💛
+  ***credits to Sam***
