@@ -1,56 +1,32 @@
- 
-
-<h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
+<h1 align="center"> *|𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿|* <br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/e7e75787f251b2e78896d.jpg" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+  
+  <img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
 </p>
 
 <p align="center">
-𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
 
 
-------
+## 💀```Deadpool Group ❌ Channel ✝️```
 
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
+- [ GROUP ](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
+- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
--------
+## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
 
-## ```Connect With Me```
-<p align="center">
+# 💀```Must fork the repository✝️```
 
-<a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
+- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
+## 💀 `Pair Code For Session`
 
-## ```Bot Support Group Chats```
+[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-pairing?s=app)
 
-- [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- [Channel](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
-
-
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Samue-l1/Classic-v3-BUG/fork)
-
-## `Generate Pair Code For Session`
-
-[Space Pairing](https://replit.com/@confrontermfisa/Space-pairing?s=app)
-
-# Instalasi
+# 💀```Deployment✝️```
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -61,7 +37,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Classic-v3-BUG
+* Locate Deadpool-Md
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -79,12 +55,12 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
-cd Classic-v3-BUG
+git clone https://github.com/Confronter/Deadpool-Md
+cd Deadpool-Md
 yarn install
 npm start
 ```
-## `For VPS`
+## 💀`For VPS`
 ```bash
 apt install nodejs 
 apt install git 
@@ -92,13 +68,9 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
-cd Classic-v3-BUG
+git clone https://github.com/Confronter/Deadpool-Md
+cd Deadpool-Md
 npm start
 ```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
- ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
+##  Developer
+  - [**Follow Instagram**]
