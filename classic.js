@@ -265,7 +265,7 @@ const genreply = async (teks) => {
         title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
         body : `⧉⸙CONFRONTER⧉`,
         renderLargerThumbnail:false,
-        showAdAttribution: true, 
+        showAdAttribution: false, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:hinachan
