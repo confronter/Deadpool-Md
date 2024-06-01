@@ -18,9 +18,6 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe'
-global.ig = 'confronter._' // ubah aja
-global.email = 'confrontermfisa@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
