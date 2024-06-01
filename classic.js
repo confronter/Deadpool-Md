@@ -1714,7 +1714,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
- title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
   body: '⫹⸙⧉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1796,15 +1796,15 @@ await loading()
 let hiks = {
 image: cewegw, 
   caption: ewe,
-  contextInfo:{externalAdReply:
-  { title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  contextInfo:{externalAdReply:{
+  title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
   body: '⫹⸙⧉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg `,
   sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
-  }
+  }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
