@@ -20,7 +20,7 @@ const chalk = require('chalk')
 
 global.gr = 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe'
 global.ig = 'confronter._' // ubah aja
-global.email = 'samuelcircute@gmail.com' //serah
+global.email = 'confrontermfisa@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -31,7 +31,7 @@ global.botname = '⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚⧉⸙�
 global.packname = '⫹⸙⧉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._⧉⸙⫺' // ubah aja ini nama sticker
 global.author = '༻࿇𝗙𝗥𝗔𝗡𝗞❖༺' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
-global.sessionName = 'deadpoolsession' //Gausah Juga
+global.sessionName = 'classicsession' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.wlcm = []
 global.wlcmm = []
