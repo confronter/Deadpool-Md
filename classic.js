@@ -241,10 +241,10 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
         title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        body : `⧉⸙CONFRONTER⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
         mediaType: 2, 
         thumbnail:sangean
         }}}, { quoted: zets })}
@@ -255,18 +255,18 @@ const virgamreply = async (teks) => {
         body : `⧉⸙FRANK⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:virgam
         }}}, { quoted: kalgans })}
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
+        body : `⧉⸙CONFRONTER⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:hinachan
         }}}, { quoted: zets })} 
@@ -704,7 +704,7 @@ var hawemod = [
 ┃    ▓ ❰ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024 ❱ ▓
 ┗━━━━━━━━━Regards to @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁━━━━━━━━━━━━━ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -1154,7 +1154,7 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading()
-                            ewe = `┏━━━▓ *𝙎𝙋𝘼𝘾𝙀 𝘽𝙐𝙂 𝗕𝗢𝗧* ▓━━━━━
+                            ewe = `┏━━━▓ *DEADPOOL* ▓━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ BY CONFRONTER ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1206,20 +1206,20 @@ await loading()
 ┃  ╰╼╼╼╼╼╼╼╼╼╯
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━
-┃    *▓ ❰ 𝙎𝙋𝘼𝘾𝙀 𝘽𝙐𝙂 ®2024 ❱ ▓*
+┃    *▓ ❰ DEADPOOL ®2024 ❱ ▓*
 ┗━━━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ ᚘᚙ', 
+  title: ' ⫹⸙⧉DEADPOOL⧉⸙⫺',
+  body: 'ᚙᚘ ⫹⧉⸙CONFRONTER⧉⫺ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1227,8 +1227,8 @@ break
 //=================================================//
 case 'bugmenu': {
 await loading()
-                            ewe = `┏━━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━━▓ DEADPOOL* ▓━━━━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ FRANK MADE  ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1267,7 +1267,7 @@ await loading()
 ┃➟ scheduleobject 62852X
 ┃➟ eatmydickk 62852X
 ┣━━━━━━━━━━━━━━━━
-┃   ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃   ➥➥❴⧠ 𝐁𝐘 FRANK ⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵━━━
 ┃➟ 𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -1280,7 +1280,7 @@ await loading()
 ┃➟ 𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
 ┃➟ 𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
 ┣━━━━━━━━━━━━━━━━━
-┃  ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃  ➥➥❴⧠ 𝐁𝐘 Frank⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━━
 ┃┏╼╼╼❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵╼╼╼╼
 ┃➟ 𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -1297,7 +1297,7 @@ await loading()
 ┃➟ 𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃➟ 𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┣━━━━━━━━━━━━━━━━━━
-┃  ➥❴⧠ *𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024* ⧠❵➥
+┃  ➥❴⧠ *DEADPOOL ®2024* ⧠❵➥
 ┃━━━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵━━
 ┃➟ 𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
@@ -1316,7 +1316,7 @@ await loading()
 ┃➟ 𝒗𝒊𝒓𝒑𝒆𝒏
 ┃➟ 𝒄𝒂𝒍𝒍𝒅𝒆𝒍𝒂𝒚
 ┃┗━━━━━━━━━━━━━━━━━━
-┃➥❴❏ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024⧠❵ ➥        
+┃➥❴❏ DEADPOOL®2024⧠❵ ➥        
 ┣━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━❴ 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 ❵━━━━━
 ┃
@@ -1324,7 +1324,7 @@ await loading()
 ┃᪣ 𝒔𝒑𝒂𝒎𝒔𝒎𝒔 (628𝒙𝒙)
 ┃᪣ 𝒄𝒂𝒍𝒍 (628𝒙𝒙)
 ┃┗╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
-┃    ➥➥➥➥❴ 𝑩𝒀 𝑺𝑨𝑴 ❵➥➥➥➥
+┃    ➥➥➥➥❴ Frank ❵➥➥➥➥
 ┣╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
 ┃┏╼❴ 𝑼𝑵𝑩𝑨𝑵𝑵 𝑻𝑬𝑿𝑻 ❵╼╼╼╼╼╼╼╼
 ┃➢ 𝒖𝒏𝒃𝒂𝒏𝒗1 62852𝑿
@@ -1348,7 +1348,7 @@ await loading()
 ┃➟ 𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏3
 ┃➟ 𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏4
 ┃┗╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
-┃   ➥➥➥❴⧠ 𝑩𝒀 𝑺𝑨𝑴 ⧠❵➥➥➥➥
+┃   ➥➥➥❴⧠ 𝑩𝒀 FRANK⧠❵➥➥➥➥
 ┣╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
 ┃┏⊱ 𝑳𝑶𝑮𝑶𝑼𝑻 (𝑲𝑯𝑼𝑺𝑼𝑺 62)
 ┃➟ 𝒌𝒆𝒏𝒐𝒏𝒊𝒏 62852𝑿
@@ -1364,21 +1364,21 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 ⧉⸙⫺   - FRANKᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙CONFRONTER⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *DEADPOOL* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 FRANK ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1413,20 +1413,20 @@ await loading()
 ┃➟ 𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ┃
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❴ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❵➥➥
+┃ ➥➥❴ *DEADPOOL ®2024* ❵➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺',
+  body: '⫹⧉⸙CONFRONTER⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1434,8 +1434,8 @@ break
 //=================================================//
 case 'groupmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 FRANK ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1495,20 +1495,20 @@ await loading()
 ┃➟➟𝖙𝖔𝖕𝖙𝖛
 ┃➟ 𝖇𝖚𝖆𝖙𝖘𝖜
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺⿻',
+  body: '༐༑⿻⧉⸙FRANK⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1516,8 +1516,8 @@ break
 //=================================================//
 case 'downloadmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 FRANK ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1564,8 +1564,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⸙⫺',
+  body: '༐༑⿻⧉⸙FRANK⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1714,13 +1714,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+ title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  body: '⫹⸙⧉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg `,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`, 
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1796,15 +1796,15 @@ await loading()
 let hiks = {
 image: cewegw, 
   caption: ewe,
-  contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  contextInfo:{externalAdReply:
+  { title: '𒑰⧉⸙ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  body: '⫹⸙⧉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
-  }}
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg `,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  }
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
@@ -2087,12 +2087,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉⸙𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉',
+  body: '༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -2185,13 +2185,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  body: '༐⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -2246,20 +2246,20 @@ await loading()
 ┃➟ 𝒎𝒆𝒓𝒅𝒆𝒌𝒂
 ┃➟ 𝒋𝒂𝒍𝒂𝒏𝒕𝒊𝒌𝒖𝒔-𝒎𝒆𝒎𝒆
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉⸙𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⧉',
+  body: '⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -2267,8 +2267,8 @@ break
 //=================================================//
 case 'asupan': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ FRANK MADE ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -2317,20 +2317,20 @@ await loading()
 ┃➟ asupan18
 ┃➟ asupan20
 ┃┗━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '⧉⸙𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚⧉',
+  body: '⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -3296,8 +3296,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
-"title": "༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚⧉⸙⫺",
+"title": "༐༑⿻FRANK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3305,7 +3305,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑FRANK⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -4418,8 +4418,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝑺⸙𝑨᪣𝑴𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻FRAPNK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -4450,7 +4450,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑`, // 
+"orderTitle": `༐༑⿻FRANK⿻༔༐༑`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -4528,8 +4528,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻FRANK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -4537,7 +4537,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐂𝐋𝐀𝐒𝐒𝐈𝐂𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻DEADPOOL⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -6294,7 +6294,7 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺༔༐༑",
+"mimetype": "༐⫹⸙⧉DEADPOOL⧉⸙⫺༔༐༑",
 "title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
@@ -6303,7 +6303,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻CONFRONTER⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -8058,8 +8058,8 @@ var groupInvite = generateWAMessageFromContent(from, proto.Message.fromObject({
 "inviteTime":"1688566586000",
 "expired":"0",
 "groupType":"0",
-"groupName": `༐༑⿻ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⿻༔༐༑${cttl}`,
-"caption": `༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${bugui}`,
+"groupName": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑${cttl}`,
+"caption": `༐༑⿻FRANK⿻༔༐༑${bugui}`,
 "jpegThumbnail": kosongjpg,
 }
 }), { userJid: from, quoted: kalgans })
@@ -8249,7 +8249,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -8681,14 +8681,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*Classifying*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝕮𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖉 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -8899,9 +8899,9 @@ await loading()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
-sourceUrl: `https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`, 
+MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+title: `CONFRONTER`,
+sourceUrl: `https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`, 
 }
 }})
 break
@@ -8919,7 +8919,7 @@ break
 case 'sc': case 'script': case 'repo':
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑪𝑳𝑨𝑺𝑺𝑰𝑪_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -8949,10 +8949,10 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk',
+                                thumbnailUrl: 'https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg',
+                                sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -8965,7 +8965,7 @@ case 'broadcast':
 //=================================================
 case "alive":
 
-const audiovn = "./Classic.mp3";
+const audiovn = "./Deadpool.mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -8978,10 +8978,10 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
-          body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://telegra.ph/file/f6d66a60454e31e0a2c0d.jpg",
-          sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
+          title: "𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
+          body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
+          thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
+          sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
@@ -9613,7 +9613,7 @@ break
 //=================================================//
 case 'restart':  
   if (!isCreator) throw `Owner Only` 
-  reply(`*Restarting Classic* .`)  
+  reply(`*Restarting Deadpool* .`)  
   await sleep(3000)  
   process.exit()  
   break;
@@ -9627,7 +9627,7 @@ case "dp": {
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -10127,7 +10127,7 @@ case 'play':
             let infoYt = await ytdl.getInfo(urlYt);
             //30 MIN
             if (infoYt.videoDetails.lengthSeconds >= 1800) {
-                reply(`𝑷𝒍𝒆𝒂𝒔𝒆 𝒔𝒊𝒓\𝑰'𝒎 𝒏𝒐𝒕 𝒂𝒃𝒍𝒆 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒉𝒂𝒕 𝒇𝒊𝒍𝒆. 🧞‍♂️`);
+                reply(`𝑰'𝒎 𝒏𝒐𝒕 𝒂𝒃𝒍𝒆 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒉𝒂𝒕 𝒇𝒊𝒍𝒆😂🖕. `);
                 return;
             }
             const getRandonm = (ext) => {
@@ -10158,7 +10158,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "➻ 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂_𝐁𝐎𝐓 ❖ ",    
+			caption: "➻ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 ❖ ",    
                     }, {
                         quoted: m 
                     }
@@ -11400,159 +11400,159 @@ konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟�
 await sleep(1000) 
 konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟ 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁導入👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
  	}
 break
