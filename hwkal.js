@@ -19,7 +19,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.gr = 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe'
-global.ig = 'confronter._' // ubah aja
+global.ig = 'ano_nymous_sam' // ubah aja
 global.email = 'confrontermfisa@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
