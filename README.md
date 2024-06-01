@@ -13,7 +13,7 @@
 
 ## 💀```Deadpool Group ❌ Channel ✝️```
 
-- [ GROUP ](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
+- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
 - [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
 ## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
