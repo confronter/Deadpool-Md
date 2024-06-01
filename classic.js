@@ -4005,7 +4005,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑𝐒⸙𝐀ᚗ𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${cttl}`, // 
+"orderTitle": `༐༑𝕜𝕒𝕤𝕙𝕜𝕚𝕕𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -4427,7 +4427,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑𝕜𝕒𝕤𝕙𝕜𝕚𝕕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -6295,7 +6295,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
 "mimetype": "༐⫹⸙⧉DEADPOOL⧉⸙⫺༔༐༑",
-"title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"title": "༐༑⿻𝕜𝕒𝕤𝕙𝕜𝕚𝕕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -11275,7 +11275,7 @@ let schedule = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage" : {
 "callType": "null",
 "scheduledTimestampMs": 0,
-"title": `[[ ༑ 𝐒⸙𝐀࿈𝐌 ⿻ 𝐕𝐢𝐒𝐢𝟎𝐍 ༑ ]]${bugui}${ios1}`,
+"title": `[[ ༑ 𝕜𝕒𝕤𝕙𝕜𝕚𝕕 ⿻ 𝐕𝐢𝐒𝐢𝟎𝐍 ༑ ]]${bugui}${ios1}`,
 }
 }), { userJid: from, quoted: kalgans })
 zetsubo.relayMessage(from, schedule.message, { messageId: schedule.key.id })
