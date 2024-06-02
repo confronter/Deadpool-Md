@@ -1154,7 +1154,20 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚` 
+	           ewe = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`
+let hiks = {
+image: cewegw, 
+  caption: ewe,
+  contextInfo:{externalAdReply:{
+  title: ' 💀𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚💀',
+  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
+  showAdAttribution: true,
+  thumbnail:hinachan,
+  mediaType: 4,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`,
+  }}
+  }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 //=================================================//
