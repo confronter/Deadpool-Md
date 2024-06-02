@@ -24,9 +24,9 @@ global.ownername = 'ꪶ༺֎ᚏ༈࿉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧⧉
 //=================================================//
 global.owner = ['254796283064'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '⫹⸙⧉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._⧉⸙⫺' // ubah aja ini nama sticker
-global.author = '༻࿇𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._❖༺' // ubah aja ini nama sticker
+global.botname = '𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧' // ubah aja ini nama sticker
+global.author = '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
