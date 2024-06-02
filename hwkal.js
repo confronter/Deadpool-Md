@@ -20,7 +20,7 @@ const chalk = require('chalk')
 
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ꪶ༺֎ᚏ༈࿉𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 global.owner = ['254796283064'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
