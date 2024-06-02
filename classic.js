@@ -236,12 +236,12 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑ - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/d35db1661c77f8ea9b429.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/d35db1661c77f8ea9b429.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
-        body : `⧉⸙CONFRONTER⸙⧉`,
+        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
+        body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -3987,7 +3987,7 @@ await sleep(1000)
 attention(`( ˹ ■■■□90% 🌟𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓 ᎒ ˺ ) 🏳️😈 ⛂ ﾟ･:*✿ | ( ͡°╭͜ʖ╮͡° ) ˹ ✻ 𝐂̸͜𝐥𝐞͟𝐚𝐧 ً𝐀𝐱𝐨𝐥𝐨𝐭͞𝐥 ◤ ツ ˺$${ios1}${ios1}${mdelay}`)
 await sleep(1000)
 }
-reply(`*Classic Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
+reply(`*Deadpool Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
 break
 //=================================================//
 case 'xzvcart': case 'xzvgc': case 'xyg777': {
@@ -4005,7 +4005,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑𝕜𝕒𝕤𝕙𝕜𝕚𝕕𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${cttl}`, // 
+"orderTitle": `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -4427,7 +4427,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑𝕜𝕒𝕤𝕙𝕜𝕚𝕕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -8553,7 +8553,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -8562,7 +8562,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk',
+                            sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
