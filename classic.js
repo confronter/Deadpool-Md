@@ -777,6 +777,8 @@ m.reply("Case Tidak Ditemukan")
 break
 //=================================================//
 case 'menu': case 'help': {
+await loading() 
+	           ewe = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚` 
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 //=================================================//
