@@ -27,6 +27,8 @@
 [Deadpool Pair](https://replit.com/@confrontermfisa/Deadpool-Pair?s=app)
 
 # 💀```Deployment✝️```
+  # 😍Tutorial how to deploy
+[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
