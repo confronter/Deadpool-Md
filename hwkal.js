@@ -33,6 +33,7 @@ global.sp = '⭔' // Gausah Juga
 global.wlcm = []
 global.wlcmm = []
 global.anticall = false
+global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 //=================================================//
 //Gausah Juga
 global.limitawal = {
