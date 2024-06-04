@@ -193,7 +193,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -832,7 +832,7 @@ sendzip(buffer)
 
 const senddocu = (teks) => {
 zetsubo.sendMessage(from, { document: teks, mimetype: 'application/pdf'}, {quoted:m})
-reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf CLASSIC-V3*')
+reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf Deadpool bug')
 }
 for (let ikal of docunye) {
 if (budy === ikal) {
