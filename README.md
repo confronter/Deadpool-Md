@@ -24,7 +24,7 @@
 
 ## 💀 `Pair Code For Session`
 
-[Deadpool Pair](https://replit.com/@confrontermfisa/Deadpool-Pair?s=app)
+[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-Pairing?s=app)
 
 # 💀```Deployment✝️```
   # 😍Tutorial how to deploy
