@@ -44,9 +44,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Start the Worker
 * Enjoy the Bot.
 
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
+``
+## 💀For Termux/Ssh/Ubuntu
+
 apt update
 apt upgrade
 pkg update && pkg upgrade
@@ -61,9 +61,8 @@ git clone https://github.com/Confronter/Deadpool-Md
 cd Deadpool-Md
 yarn install
 npm start
-```
-## 💀`For VPS`
-```bash
+``
+## 💀For VPS
 apt install nodejs 
 apt install git 
 apt apt install ffmpeg 
@@ -73,13 +72,13 @@ apt install bash
 git clone https://github.com/Confronter/Deadpool-Md
 cd Deadpool-Md
 npm start
-```
+``
 ## 💀For 24/7 Activation (Termux)
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
-## 💀 Developer
+## 💀Developer
 
   - [**Follow Instagram**](https://instagram.com/confronter._)
 - [**WhatsApp Me**](https://wa.me/254796283064)
