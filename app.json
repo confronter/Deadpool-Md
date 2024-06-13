@@ -4,4 +4,25 @@
 	"repository": "https://github.com/confronter/Deadpool-Md",
 	"logo": "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
 	"keywords": ["multi-device"]
-}
+     "env": {
+        "autoviewstatus": {
+        "description": "Put TRUE,if you want the bot to view status ",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "required": false
+      }
+    },
+  "buildpacks": [
+              {
+                "url": "heroku/nodejs"
+              },
+              {
+                "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+              },
+              {
+                "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+              }
+            ]
+          }   
