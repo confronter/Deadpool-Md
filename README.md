@@ -74,10 +74,10 @@ git clone https://github.com/Confronter/Deadpool-Md
 cd Deadpool-Md
 npm start
 ```
-## 💀For 24/7 Activation (Termux)`
+## 💀For 24/7 Activation (Termux)
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-
+```
 
 ## 💀 Developer
 
