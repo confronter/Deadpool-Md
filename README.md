@@ -83,5 +83,5 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
   - [**Follow Instagram**](https://instagram.com/confronter._)
 - [**WhatsApp Me**](https://wa.me/254796283064)
-  ## THANKS✝️💛
-  ***credits to Sam***
+## THANKS✝️💛
+  
