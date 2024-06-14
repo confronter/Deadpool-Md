@@ -11,20 +11,20 @@ DR BEN Multi Device is a whatsapp bot created by <a href="https://github.com/Ram
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 💀```DR BEN GROUP ❌ Channel ✝️```
 
-- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [ GROUP ]([https://chat.whatsapp.com/JTR4k7tiJfXFlz0yQyjCPI)
+- [CHANNEL](https://whatsapp.com/channel/0029VadcdQS3LdQe3Jf5on0X)
 
-## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
+## 🔆🔆MADE BY DR BEN
 
 # 💀```Must fork the repository✝️```
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Ramirezben/Deadpool-Md/fork)
 
 ## 💀 `Pair Code For Session`
 
-[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-Pairing?s=app)
+[DR BEN MD Pairing](https://replit.com/@confrontermfisa/Deadpool-Pairing?s=app)
 
 # 💀```Deployment✝️```
   # 😍Tutorial how to deploy
@@ -57,7 +57,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Confronter/Deadpool-Md
+git clone https://github.com/Ramirezben/Deadpool-Md
 cd Deadpool-Md
 yarn install
 npm start
@@ -70,7 +70,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Confronter/Deadpool-Md
+git clone https://github.com/Ramirezben/Deadpool-Md
 cd Deadpool-Md
 npm start
 ```
