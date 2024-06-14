@@ -1,12 +1,12 @@
-<h1 align="center"> ✝𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿✝ <br></h1>
+<h1 align="center"> ❤️❤️DR BEN💙💙 <br></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DR+BEN-MD-Md+made+by+DR+BEN+;Follow+me+IG+%40DRBEN._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
+  <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg" />
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+DR BEN Multi Device is a whatsapp bot created by <a href="https://github.com/Ramirezben" target="_blank">ramirezben</a> . Star the repo with courage 🌟.
 </p>
 
 
