@@ -240,7 +240,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
+        title : `DR BEN 𝗕𝗨𝗚`,
         body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -326,7 +326,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` 💀𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚 𝗖𝗢𝗠𝗠𝗔𝗡𝗗💀
+` 💀DR BEN MD 𝗕𝗨𝗚 𝗖𝗢𝗠𝗠𝗔𝗡𝗗💀
    📌𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝚋𝚢 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁📌
 ✝️𝗔𝗱𝗱 𝗔𝗰𝗰𝗲𝘀☆☆
  💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (628xx/@𝐭𝐚𝐠)
@@ -370,7 +370,7 @@ var hawemod = [
  🖋++schedule 62852X
  🖋scheduleobject 62852X
  🖋eatmydickk 62852X
-   💜𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._💜
+   💜𝐁𝐘 DR BEN._💜
 
 🕸❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵
  🐝𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -382,7 +382,7 @@ var hawemod = [
  🐝𝒙𝒔𝒊𝒔𝒕𝒆𝒎 628𝒆 62852𝑿
  🐝𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
  🐝𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
-     𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._
+     𝐁𝐘 DR BEN._
 🕸❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵
  🦅𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
  🦅𝒙𝒈𝒓𝒐𝒖𝒑 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -397,7 +397,7 @@ var hawemod = [
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒘 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
-    ❴𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
+    ❴DR BEN MD ®2024
 🕸❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵
  🍁𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
  🍁𝒅𝒊𝒓𝒆𝒄𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏
@@ -414,7 +414,7 @@ var hawemod = [
  🍁30𝒄𝒂𝒍𝒍
  🍁𝒗𝒊𝒓𝒑𝒆𝒏
  🍁𝒄𝒂𝒍𝒍𝒅𝒆𝒍𝒂𝒚
-  ❏𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
+  ❏DR BEN MD ®2024
 🌞 ❴ 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 ❵
 
 🌞❴ 𝑫𝑰𝑺𝑻𝑼𝑹𝑩𝑨𝑵𝑪𝑬 ❵
@@ -438,7 +438,7 @@ var hawemod = [
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏2
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏3
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏4
- 🖇𝚋𝚢 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁🖇
+ 🖇𝚋𝚢 DR BEN MD🖇
 🕸𝑳𝑶𝑮𝑶𝑼𝑻 (𝑲𝑯𝑼𝑺𝑼𝑺 62)
    🎋𝒌𝒆𝒏𝒐𝒏𝒊𝒏 62852𝑿
    🎋𝒗𝒆𝒓𝒊𝒇𝒚 62852𝑿
@@ -450,7 +450,7 @@ var hawemod = [
  🌴𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝 (𝐆𝐜 𝐋𝐢𝐧𝐤)
  🌴𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ✝️❴ GROUPMENU ❵
-          ❰ 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇  💀❱
+          ❰  DR BEN  💀❱
  🧸𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
@@ -701,8 +701,8 @@ var hawemod = [
 🇰🇪asupan18
 🇰🇪asupan18
 🇰🇪asupan20   
-┃    ▓ ❰ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024 ❱ ▓
-┗━━━━━━━━━Regards to @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁━━━━━━━━━━━━━ `
+┃    ▓ ❰ DR BEN MD®2024 ❱ ▓
+┗━━━━━━━━━Regards to @DR BEN━━━━━━━━━━━━━ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@⫹𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⸙⫺.....'})//Pengalih isu
 
@@ -1154,13 +1154,13 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`
+	           ewe = `DR BEN 𝗕𝗨𝗚`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' 💀𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚💀',
-  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
+  title: ' DR BEN 𝗕𝗨𝗚💀',
+  body: 'DR BEN', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -2822,7 +2822,7 @@ await sleep(1000)
 attention(`( ˹ ■■■□90% 🌟𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓 ᎒ ˺ ) 🏳️😈 ⛂ ﾟ･:*✿ | ( ͡°╭͜ʖ╮͡° ) ˹ ✻ 𝐂̸͜𝐥𝐞͟𝐚𝐧 ً𝐀𝐱𝐨𝐥𝐨𝐭͞𝐥 ◤ ツ ˺$${ios1}${ios1}${mdelay}`)
 await sleep(1000)
 }
-reply(`*Deadpool Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
+reply(`*DRBEN Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
 break
 //=================================================//
 case 'xzvcart': case 'xzvgc': case 'xyg777': {
@@ -2840,7 +2840,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${cttl}`, // 
+"orderTitle": `DR BEN.${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -3253,8 +3253,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻FRAPNK⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉DR BEN⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻DR BEN⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3262,7 +3262,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${buttonkal}`,
+"caption":` ༐DRBEN .${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -3285,7 +3285,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑⿻FRANK⿻༔༐༑`, // 
+"orderTitle": `༐༑⿻DRBEN⿻༔༐༑`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -3363,8 +3363,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻FRANK⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉DR BEN⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻DR BEN⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3372,7 +3372,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻DEADPOOL⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻DR BEN⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -6893,8 +6893,8 @@ var groupInvite = generateWAMessageFromContent(from, proto.Message.fromObject({
 "inviteTime":"1688566586000",
 "expired":"0",
 "groupType":"0",
-"groupName": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑${cttl}`,
-"caption": `༐༑⿻FRANK⿻༔༐༑${bugui}`,
+"groupName": `༐༑⿻DR BEN⿻༔༐༑${cttl}`,
+"caption": `༐༑⿻DR BEN⿻༔༐༑${bugui}`,
 "jpegThumbnail": kosongjpg,
 }
 }), { userJid: from, quoted: kalgans })
@@ -7084,7 +7084,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧠᪣══
+let teks = `══᪣⧠ *࿉ DR BEN ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -7388,7 +7388,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
+                let pinga = `DR BEN 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -7516,14 +7516,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DR BEN MD PINGING!!!*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*DR BEN MD ...PONG!!!💀 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
