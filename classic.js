@@ -736,7 +736,7 @@ participant: mek.key.participant
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['typing']
+let rn = ['unvailable']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
