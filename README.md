@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DISNEY-Md+made+by+Unruly+;Follow+me+IG+254_teens__" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
+  <img src="https://telegra.ph/file/cb4af7d8a4e4a0073ee95.jpg" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 # 💀```Must fork the repository✝️```
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Trenchguy/Disney-Md/fork)
 
 ## 💀 `Pair Code For Session`
 
@@ -28,7 +28,7 @@
 
 # 💀```Deployment✝️```
   # 😍Tutorial how to deploy
-[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
+[Video Tutorial](https://www.instagram.com/254_teens__?igsh=MWo1bnVqdDJieW1kOA==)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
