@@ -23,7 +23,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
 ## `Deadpool Pair Code For Session`
-[![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/Deadpool-PairCode-4?s=app)
+[![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
 
 
 # 💀```Deployment✝️```
