@@ -1,5 +1,4 @@
-©️confronter Deadpool v2
-  ♥️ ありがとう
+
                  >
 */
 const fs = require('fs')
