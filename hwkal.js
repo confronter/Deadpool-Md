@@ -1,38 +1,22 @@
-/*Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Sampe Nipu Apalagi Lari Dari Tanggung Jawab
-
-Base Ori : Hw Mods
-Base Haikal Hw Mods : Copyan Dari Base Dika
-
-• [ Recode Bye > ZetsuboXygen777]
-   # AND↓
-   THANKS TO >
-  XygenGod777( Watashi / 私 )
-  Hw Mods Wa / Haikal (Base)
-  Adiwajshing (Baileys)
-  whiskeysockets (Baileys)
-  Thunder X7 (Inspirate)
-  Pak Tzy (Inspirate)
-  Maintainer (Taira Makino)
-  Maintener2(Samue-l1)
-  Maintener3(Emperordagoat)
+©️confronter Deadpool v2
   ♥️ ありがとう
                  >
 */
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
-global.ig = 'ano_nymous_sam' // ubah aja
-global.email = 'samuelcircute@gmail.com' //serah
+global.gr = 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39'
+global.ig = 'confronter._' // ubah aja
+global.email = 'confrontermfisa@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254742491666'] // ubah aja pake nomor lu
+global.owner = ['254111766934'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
-global.author = '༻࿇𝐊𝐈𝐍𝐆_𝐒𝐀𝐌❖༺' // ubah aja ini nama sticker
+global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' // ubah aja ini nama sticker
+global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
