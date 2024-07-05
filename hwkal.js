@@ -1,18 +1,4 @@
-/*Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Sampe Nipu Apalagi Lari Dari Tanggung Jawab
-
-Base Ori : Hw Mods
-Base Haikal Hw Mods : Copyan Dari Base Dika
-
-• [ Recode Bye > ZetsuboXygen777]
-   # AND↓
-   THANKS TO >
-  XygenGod777( Watashi / 私 )
-  Hw Mods Wa / Haikal (Base)
-  Adiwajshing (Baileys)
-  whiskeysockets (Baileys)
-  Thunder X7 (Inspirate)
-  Pak Tzy (Inspirate)
-  ♥️ ありがとう
+©️Confronter Deadpool v2
                  >
 */
 const fs = require('fs')
@@ -36,6 +22,19 @@ global.anticall = false
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 //=================================================//
 //Gausah Juga
+/*
+Declaring Menu type
+
+V1 = Photo
+V2 = Video
+V3 = Text
+V4 = Button
+
+*/
+global.menutype = "v1"
+//=================================================//
+//Gausah Juga
+
 global.limitawal = {
     premium: "Infinity",
     free: 5
