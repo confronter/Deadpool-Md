@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
+  <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
 </p>
 
 <p align="center">
