@@ -736,7 +736,7 @@ participant: mek.key.participant
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['typing']
+let rn = ['recording']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
@@ -1225,7 +1225,7 @@ mentionedJid:[sender],
 break
 case 'gamemenu':
 await loading()
-if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
+if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
 sendGeekzMessage(from, { 
 text: `Hay Kak ${pushname} ${salam2}
