@@ -1,19 +1,6 @@
 /*
-› Create By zetsubo
-› Base Ori zetsubo
-
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA & ZetsuboXygen */
-
-//   • [ Recode Bye > ZetsuboXygen777]
-/*   # AND↓
-   THANKS TO >
-  XygenGod777( Watashi / 私 )
-  Hw Mods Wa / Haikal (Base)
-  Adiwajshing (Baileys)
-  whiskeysockets (Baileys)
-  Thunder X7 (Inspirate)
-  Pak Tzy (Inspirate)
-  ♥️ ありがとう
+› King Sam
+› 
                  >
 */
 
@@ -129,13 +116,13 @@ classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: 
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Terima Kasih Sudah Bergabung Jangan Lupa Baca Deskripsi Yah
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/254796283064`})
+Creator : https://wa.me/254742491666`})
 } else if (anu.action == 'remove') {
 classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Karena Untuk Setiap Ucapan Selamat Datang Akan Selalu Diakhiri Dengan Ucapan Selamat Tinggal 👋
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Selamat Tinggal *@${num.split("@")[0]}* Di Group *${metadata.subject}*
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/254796283064`})
+Creator : https://wa.me/2547424916666`})
 } else if (anu.action == 'promote') {
 classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Ciee Jadi Admin Di Group ${metadata.subject} ${metadata.desc}`  })
 } else if (anu.action == 'demote') {
@@ -221,6 +208,28 @@ buffer = await videoToWebp(buff)}
 await classic.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
 return buffer}
  //=================================================//
+classic.ev.on("messages.upsert", async (chatUpdate) => {
+    //console.log(JSON.stringify(chatUpdate, undefined, 2))
+    try {
+    mek = chatUpdate.messages[0];
+      if (autoviewstatus === 'TRUE' && mek.key && mek.key.remoteJid === "status@broadcast") {
+
+         classic.readMessages([mek.key]);
+
+}
+      mek = chatUpdate.messages[0];
+      if (!mek.message) return;
+      mek.message = Object.keys(mek.message)[0] === "ephemeralMessage" ? mek.message.ephemeralMessage.message : mek.message;
+      if (mek.key && mek.key.remoteJid === "status@broadcast") return;
+      if (!zetsubo.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
+      if (mek.key.id.startsWith("BAE5") && mek.key.id.length === 16) return;
+      m = smsg(classic, mek, store);
+      require("./classicsession")(client, m, chatUpdate, store);
+    } catch (err) {
+      console.log(err);
+    }
+  })
+//==================================================//
  classic.downloadAndSaveMediaMessage = async (message, filename, attachExtension = true) => {
 let quoted = message.msg ? message.msg : message
 let mime = (message.msg || message).mimetype || ''
