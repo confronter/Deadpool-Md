@@ -307,6 +307,22 @@ reply(`${err}`)
 }
 }
 
+const moji = ['💔', '🥰', '🌏', '🫂', '😹', '🌝', '🤳',]
+const randomemoji = moji[Math.floor(Math.random() * moji.length)]
+
+//Reaction
+const inireact = async () => {
+  const emojis = ["💦", "🕳️", "🔥", "💫", "👁️", "👀", "👽", "👾"];
+  
+  for (const emoji of emojis) {
+    await sleep(80);
+    zetsubo.sendMessage(m.chat, { react: { text: emoji, key: m.key }});
+  }
+  
+  await sleep(50);
+  zetsubo.sendMessage(m.chat, { react: { text: randomemoji, key: m.key }});
+}
+	 
 const downloadMp4 = async (Link) => {
 try {
 await ytdl.getInfo(Link)
