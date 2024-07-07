@@ -807,7 +807,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
-  sourceUrl:`https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`,
+  sourceUrl:`https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -870,8 +870,8 @@ await loading()
 if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
 sendGeekzMessage(from, { 
-text: `Hay Kak ${pushname} ${salam2}
-Total Pengguna Premium :  ${owner.length}
+text: `Hey ${pushname} ${salam2}
+Deadpool :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
   ✳️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2✳️
   ❗️𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 𝚋𝚢 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫☪️
