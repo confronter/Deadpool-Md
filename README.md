@@ -23,12 +23,12 @@
 - FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
 ## `Deadpool Pair Code For Session`
-[![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
+[![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/Deadpool-pair-4?s=app)
 
 
 # 💀```Deployment✝️```
-  # 😍Tutorial how to deploy
-[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
+  # ❄️SEE Tutorial how to deploy✔️
+[Video Tutorial](https://t.me/dragonbugkiller/31)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
