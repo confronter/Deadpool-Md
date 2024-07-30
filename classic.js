@@ -1,19 +1,6 @@
 /*
 
-› Create By Haikal (HW MODS)
-› Base Ori Haikal (HW MODS)
-
-🌷 KALAU MAU RENAME TARO CREDITS GUA : Haikal (HW MODS)
-   • [ Recode Bye > ZetsuboXygen777]
-   # AND↓
-   THANKS TO >
-  XygenGod777( Watashi / 私 )
-  Hw Mods Wa / Haikal (Base)
-  Adiwajshing (Baileys)
-  whiskeysockets (Baileys)
-  Thunder X7 (Inspirate)
-  Pak Tzy (Inspirate)
-  ♥️ ありがとう
+›Created by Confronter
                  >
 */
 
@@ -278,7 +265,7 @@ var lod = [
 "☫",
 	"☸",
         "🧞‍♂️𝐏𝐨𝐧𝐠",	
-"𝐉𝐈𝐍𝐈 🧞‍♂️"
+"Deadpool"
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '🧞‍♂️𝐏𝐨𝐧𝐠'})
 
@@ -1317,6 +1304,29 @@ zetsubo.sendMessage(geek, {text: `${teksnye}`}, {quoted:m})
 zetsreply(`*Sukses mengirim pesan Ke ${mem.length} orang*`)
 }
 break
+//Reply
+const zetsreply = async (teks) => {
+await sleep(500)
+return ryozingod.sendMessage(m.chat, {
+contextInfo: {
+mentionedJid: [m.sender],
+externalAdReply: {
+showAdAttribution: false,
+renderLargerThumbnail: false,
+title: `©Deadpool V1.0`,
+body: `${ucapanWaktu} ${m.pushName} 👋`,
+previewType: "VIDEO",
+thumbnail: nulll,
+sourceUrl: `${global.url}`,
+mediaUrl: `${global.url}`
+}
+},
+text: teks
+}, {
+quoted: m
+})
+await sleep(500)
+}		
 case "savekontak": {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*') 
 await m.reply('wait')
@@ -2111,14 +2121,58 @@ zetsubo.sendMessage(m.chat, { text: `★彡 𝑺𝑼𝑹𝑷𝑹𝑰𝑺𝑬𝑫
 }
 break
   //=================================================
-case 'classic-react': {
+case 'deadpool-react': {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.quoted) return reply(`Penggunaan .${command} reply pesan`)
 await zetsubo.sendMessage(m.chat, { text: 'success 💀', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363144038483540@newsletter', newsletterName: '؂ن؃؄ٽ؂ن؃؄ٽ'.repeat(10000), serverMessageId: 2 } }}, { quoted: qbug })
 await sleep(20000)
 await zetsubo.sendMessage(m.chat, { react: { text: '🐬', key: { remoteJid: m.chat, fromMe: true, id: quoted.id } } })
 }
+case 'clearchat': {
+pee = "\n".repeat(200)
+zetsreply(pee + '😁🖕')
+}
+case 'changemenu':
+if (!isDeveloper) return zetsreply(mess.owner)
+if (args.length < 1) return zetsreply(`Example ${prefix + command} button/non`)
+if (q == 'button') {
+db.data.settings[botNumber].menuType = 'buttonImage'
+zetsreply(`Successfully Changed Menu To Button List Image`)
+} else if (q == 'non') {
+db.data.settings[botNumber].menuType = 'imageIos'
+zetsreply(`Successfully Changed Menu To ImageIos`)
+}
+case 'autorecord':
+if (!isDeveloper) return zetsreply(mess.owner)
+if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
+if (q == 'on') {
+db.data.settings[botNumber].autoRecord = true
+zetsreply(`Successfully Changed Auto Record To ${q}`)
+} else if (q == 'off') {
+db.data.settings[botNumber].autoRecord = false
+zetsreply(`Successfully Changed Auto Record To ${q}`)
+}		
 break
+case 'autotyping':
+if (!isDeveloper) return zetsreply(mess.owner)
+if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
+if (q == 'on') {
+db.data.settings[botNumber].autoTyping = true
+zetsreply(`Successfully Changed Auto Typing To ${q}`)
+} else if (q == 'off') {
+db.data.settings[botNumber].autoTyping = false
+zetsreply(`Successfully Changed Auto Typing To ${q}`)
+}
+case 'autobio':
+if (!isDeveloper) return zetsreply(mess.owner)
+if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
+if (q == 'on') {
+db.data.settings[botNumber].autobio = true
+zetsreply(`Successfully Changed Auto Bio To ${q}`)
+} else if (q == 'off') {
+db.data.settings[botNumber].autobio = false
+joreply(`Successfully Changed Auto Bio To ${q}`)
+}		
 //===========================================		
 case 'docugc': {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
