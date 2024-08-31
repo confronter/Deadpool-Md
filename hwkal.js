@@ -15,7 +15,7 @@ global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' //ubah jadi nama bot m
 global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕2' // ubah aja ini nama sticker
 global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
-global.sessionName 'confrontersession'  //Gausah Juga
+global.sessionName 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.wlcm = []
