@@ -330,10 +330,10 @@ async function loading () {
 var hawemod = [
 
 ` ⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️
-❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
+❗️𝐭𝐲𝐩𝐞 .𝐝𝐞𝐚𝐝𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
   🔇𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 𝐌𝐚𝐝𝐞 𝐈𝐭🔇`
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕2.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟑.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -852,7 +852,7 @@ mentionedJid:[sender],
 }
 })
 break
-case 'allmenu':
+case 'deadmenu':
 await loading()
 if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
