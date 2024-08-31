@@ -329,9 +329,9 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️
+` ⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️
 ❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
-  ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫✳️`
+  🔇𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 𝐌𝐚𝐝𝐞 𝐈𝐭🔇`
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕2.....'})//Pengalih isu
 
@@ -365,7 +365,7 @@ participant: mek.key.participant
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['recording,composing,typing']
+let rn = ['recording']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
@@ -783,13 +783,13 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2`
+	           ewe = `⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️',
-  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
+  title: '⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️',
+  body: '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -860,8 +860,9 @@ sendGeekzMessage(from, {
 text: `Hey ${pushname} ${salam2}
 Deadpool :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
-  ✳️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2✳️
-  ❗️𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 𝚋𝚢 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫☪️
+  ⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️
+  ❗️𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫😂
+  ❗️𝐘𝐨𝐮 𝐜𝐚𝐧𝐭 𝐝𝐞𝐟𝐞𝐚𝐭 𝐦𝐞😂
 ✝️𝗔𝗱𝗱 𝗔𝗰𝗰𝗲𝘀☆☆
  💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (628xx/@𝐭𝐚𝐠)
  💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (628𝐱𝐱/@𝐭𝐚𝐠)
@@ -2115,7 +2116,7 @@ zetsreply(json.result)
 }
 break
 //=================================================
-case 'bug?': case 'classic': case 'king': case 'oke': case 'fear': case 'virtex': case 'virteks': case 'virtext': case 'pirtek': case 'pirteks': case 'pirtex': case 'anjay':{
+case 'bug?': case 'deadpool': case 'king': case 'oke': case 'fear': case 'virtex': case 'virteks': case 'virtext': case 'pirtek': case 'pirteks': case 'pirtex': case 'anjay':{
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')	
 zetsubo.sendMessage(m.chat, { text: `★彡 𝑺𝑼𝑹𝑷𝑹𝑰𝑺𝑬𝑫 𝑯𝑼𝑯?彡★`}, { quoted: qbug })
 }
@@ -7137,7 +7138,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧠᪣══
+let teks = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟑
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -7254,12 +7255,12 @@ var mems = []
 members.map(async adm => {
 mems.push(adm.id.replace('c.us', 's.whatsapp.net'))
 })
-zetsubo.sendMessage(from, {text: `Fitur Welcome Di Aktifkan Di Group Ini`, contextInfo: { mentionedJid : mems }}, {quoted:m})
+zetsubo.sendMessage(from, {text: `𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐠𝐫𝐨𝐮𝐩 𝐚𝐧𝐝 𝐫𝐞𝐚𝐝 𝐝𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧😂❗️`, contextInfo: { mentionedJid : mems }}, {quoted:m})
 } else if (args[0] === "off") {
 if (!welcm) return reply('Sudah Non Aktif')
 let off = wlcm.indexOf(from)
 wlcm.splice(off, 1)
-reply('Sukses Mematikan Welcome  di group ini')
+reply('𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐬𝐞𝐭 𝐨𝐧')
 }
 }
 break
@@ -7441,7 +7442,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
+                let pinga = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟑 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫.${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -7569,7 +7570,7 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫 𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝟑 𝐏𝐢𝐧𝐠𝐢𝐧𝐠..' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
@@ -7807,7 +7808,8 @@ break
 case 'sc': case 'script': case 'repo':
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
-`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝐀𝐌 𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼
+ > 𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫⸼` });
 
    break;
 //=================================================
