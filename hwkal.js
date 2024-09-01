@@ -9,13 +9,13 @@ global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254111766934'] // ubah aja pake nomor lu
+global.owner = ['25796283064'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟑' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟑' // ubah aja ini nama sticker
 global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
-global.sessionName = 'deadpoolsession'  //Gausah Juga
+global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.wlcm = []
