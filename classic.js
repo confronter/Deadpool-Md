@@ -23,7 +23,7 @@ const { uptotelegra } = require('./lib/upload')
 const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
 const hxz = require('hxz-api')
-const ytdl = require("ytdl-core")
+const ytdll = require("ytdl-core)
 const { Configuration, OpenAIApi } = require('openai')
 const { exec, spawn, execSync } = require("child_process")
 const qbug = {
@@ -329,9 +329,20 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️
+` ★★★★★★★★★★★★★★★★★★
+⌛️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️
 ❗️𝐭𝐲𝐩𝐞 .𝐝𝐞𝐚𝐝𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
-  🔇𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 𝐌𝐚𝐝𝐞 𝐈𝐭🔇`
+  🔇𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 𝐌𝐚𝐝𝐞 𝐈𝐭🔇
+  ★★★★★★★★★★★★★★★★★★
+  .𝐏𝐢𝐧𝐠
+  .𝐑𝐮𝐧𝐭𝐢𝐦𝐞        
+  .𝐀𝐥𝐢𝐯𝐞          
+  .𝐀𝐮𝐭𝐨𝐬𝐭𝐚𝐭𝐮𝐬𝐯𝐢𝐞𝐰   
+  .𝐒𝐜𝐫𝐢𝐩𝐭
+  .𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭
+  .𝐎𝐰𝐧𝐞𝐫
+  .𝐏𝐥𝐚𝐲
+  ★★★★★★★★★★★★★★★★★`
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟑.....'})//Pengalih isu
 
@@ -793,7 +804,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  MediaUrl:`https://telegra.ph/file/f4377f72ae8509762616a.jpg`,
   sourceUrl:`https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39`,
   }}
   }
@@ -7807,8 +7818,8 @@ break
 //=================================================
 case 'sc': case 'script': case 'repo':
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
-`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝐀𝐌 𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8c7d8176e16d36ab5ad6c.jpg` }, caption: 
+`💀𝐘𝐨𝐮 𝐍𝐞𝐞𝐝 𝐌𝐲 𝐒𝐜𝐫𝐢𝐩𝐭 𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫😂\n\n 📌𝐇𝐞𝐲  *${pushname}* \n\n ❗️ 𝐀𝐌 𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟑⌛️.\n\n ❗️𝐆𝐄𝐓 𝐒𝐎𝐔𝐑𝐂𝐄 .\n\n ⌛️𝐕𝐈𝐀 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 ⇣⇣.\n\n 🔇𝐅𝐎𝐑𝐊 𝐀𝐍𝐃 𝐒𝐓𝐀𝐑🌟➻🔗 ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 🔇𝐑𝐄𝐀𝐃𝐌𝐄 𝐁𝐄𝐅𝐎𝐑𝐄 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓.\n\n ❗️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼
  > 𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫⸼` });
 
    break;
@@ -7841,8 +7852,8 @@ case 'broadcast':
                                 showAdAttribution: true,
                                 title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
+                                thumbnailUrl: 'https://telegra.ph/file/f4377f72ae8509762616a.jpg',
+                                sourceUrl: 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -7868,9 +7879,9 @@ const audiovn = "./Deadpool.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
-          body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
-          thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
+          title: "𝗗𝗲𝗮𝗱𝗽𝗼𝗼𝗹 𝗶𝘀 𝗮𝗹𝗶𝘃𝗲 𝗠𝗼𝘁𝗵𝗲𝗿𝗳𝘂𝗰𝗸𝗲𝗿💀",
+          body: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
+          thumbnailUrl: "https://telegra.ph/file/f4377f72ae8509762616a.jpg",
           sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
           mediaType: 1,
           renderLargerThumbnail: true
@@ -9002,7 +9013,7 @@ https://cloud.google.com/translate/docs/languages
 case 'play':
     case 'play2': {
         if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙷𝙴𝙰𝙳𝙻𝙸𝙶𝙷𝚃𝚂 𝙱𝚈 𝙰𝙻𝙰𝙽 𝚆𝙰𝙻𝙺𝙴𝚁')
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝐃𝐨𝐣𝐚 𝐜𝐚𝐭 𝐁𝐲 𝐂𝐞𝐧𝐭𝐫𝐚𝐥 𝐂𝐞𝐞')
             return;
         }
         try {
@@ -9014,10 +9025,10 @@ case 'play':
                 return;
             }
             let urlYt = videos[0].url
-            let infoYt = await ytdl.getInfo(urlYt);
+            let infoYt = await ytdll.getInfo(urlYt);
             //30 MIN
             if (infoYt.videoDetails.lengthSeconds >= 1800) {
-                reply(`𝙰𝙼 𝙽𝙾𝚃 𝙰𝙱𝙻𝙴 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚃𝙷𝙰𝚃 𝙵𝙸𝙻𝙴 𝚄𝚂𝙴 𝙼𝙸𝙽𝙳😂`);
+                reply(`𝐀𝐦 𝐧𝐨𝐭 𝐚𝐛𝐥𝐞 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐭𝐡𝐚𝐭 𝐟𝐢𝐥𝐞 𝐦𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫😂`);
                 return;
             }
             const getRandonm = (ext) => {
@@ -9025,7 +9036,7 @@ case 'play':
             };
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandonm(".mp3");
-            const stream = ytdl(urlYt, {
+            const stream = ytdll(urlYt, {
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
                 .pipe(fs.createWriteStream(`./${randomName}`));
@@ -9048,7 +9059,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "➻ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 ❖ ",    
+			caption: "♫♫𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐌𝐔𝐒𝐈𝐂♫♫",    
                     }, {
                         quoted: m 
                     }
