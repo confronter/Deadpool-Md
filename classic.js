@@ -23,7 +23,7 @@ const { uptotelegra } = require('./lib/upload')
 const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
 const hxz = require('hxz-api')
-const ytdll = require("ytdl-core)
+const ytdl = require("ytdl-core)
 const { Configuration, OpenAIApi } = require('openai')
 const { exec, spawn, execSync } = require("child_process")
 const qbug = {
@@ -9025,7 +9025,7 @@ case 'play':
                 return;
             }
             let urlYt = videos[0].url
-            let infoYt = await ytdll.getInfo(urlYt);
+            let infoYt = await ytdl.getInfo(urlYt);
             //30 MIN
             if (infoYt.videoDetails.lengthSeconds >= 1800) {
                 reply(`𝐀𝐦 𝐧𝐨𝐭 𝐚𝐛𝐥𝐞 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐭𝐡𝐚𝐭 𝐟𝐢𝐥𝐞 𝐦𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫😂`);
@@ -9036,7 +9036,7 @@ case 'play':
             };
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandonm(".mp3");
-            const stream = ytdll(urlYt, {
+            const stream = ytdl(urlYt, {
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
                 .pipe(fs.createWriteStream(`./${randomName}`));
