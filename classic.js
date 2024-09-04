@@ -377,11 +377,11 @@ participant: mek.key.participant
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['recording']
+let rn = ['typing']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
-console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(new Date)), chalk.black(chalk.bgBlue(budy || m.mtype)) + '\n' + chalk.magenta('=> Dari'), chalk.green(pushname), chalk.yellow(m.sender) + '\n' + chalk.blueBright('=> Di'), chalk.green(m.isGroup ? pushname : 'Private Chat', from))
+console.log(chalk.black(chalk.bgWhite('[ MESSAGE ]')), chalk.black(chalk.bgGreen(new Date)), chalk.black(chalk.bgBlue(budy || m.mtype)) + '\n' + chalk.magenta('=> From'), chalk.green(pushname), chalk.yellow(m.sender) + '\n' + chalk.blueBright('=> Di'), chalk.green(m.isGroup ? pushname : 'Private Chat', from))
 }
 if (isCmd && !isUser) {
 pengguna.push(sender)
