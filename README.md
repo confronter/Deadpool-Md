@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-LUERHEEM-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+LUERHEEM-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">luerheem</a> . Star the repo with courage 🌟.
 </p>
 
 
