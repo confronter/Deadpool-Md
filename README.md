@@ -2,7 +2,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=LUEHEEML-Md+made+by+Frank+;Follow+me+IG+%40luerheem de gean._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
+  <img src="![image_20240904220942 (2)](https://github.com/user-attachments/assets/53dacfd3-5899-43f1-a5c4-2112e1e42720)
+" />
 </p>
 
 <p align="center">
