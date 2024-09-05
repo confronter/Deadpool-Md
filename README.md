@@ -1,6 +1,6 @@
 <h1 align="center"> ☸Luerheem 𝐕2☸ <br></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=LUEHEEML-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
   <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
 </p>
@@ -11,7 +11,7 @@ LUERHEEM-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://git
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 💀```Luerheem Group ❌ Channel ✝️```
 
 - [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
 - [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
