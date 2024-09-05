@@ -1,4 +1,4 @@
-<h1 align="center"> ☸𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕2☸ <br></h1>
+<h1 align="center"> ☸Luerheem 𝐕2☸ <br></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+LUERHEEM-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
 
@@ -22,7 +22,8 @@
 
 - FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
-## `Deadpool Pair Code For Session`
+## `Luerheem
+Pair Code For Session`
 [![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/Deadpool-pair-4?s=app)
 
 
