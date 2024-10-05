@@ -25,7 +25,7 @@
 ## `❗️𝐔𝐩𝐝𝐚𝐭𝐞𝐝❗️Deadpool Pair Code For Session`
 [𝐔𝐒𝐄 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄](https://confronter-session.onrender.com/pair)
 
-[𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://confronter-session.on-render.com)
+[𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://confronter-session.onrender.com/)
 
 # 💀```Deployment✝️```
   # ❄️SEE Tutorial how to deploy✔️
