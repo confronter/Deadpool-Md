@@ -153,22 +153,22 @@ const isContacts = contactsss.includes(m.sender)
 	    const moment = require("moment-timezone")
 const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss")
 if(time2 < "20:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐌𝐚𝐥𝐚𝐦"
+var ucapanWaktu = "𝗡𝗶𝗴𝗵𝘁"
 }
 if(time2 < "18:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐏𝐞𝐭𝐚𝐧𝐠"
+var ucapanWaktu = "𝗚𝗼𝗼𝗱 𝗻𝗶𝗴𝗵𝘁"
  }
 if(time2 < "15:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐒𝐨𝐫𝐞"
+var ucapanWaktu = "𝗔𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻"
  }
 if(time2 < "12:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐒𝐢𝐚𝐧𝐠"
+var ucapanWaktu = "𝗛𝗮𝗽𝗽𝘆 𝗗𝗮𝘆"
 }
 if(time2 < "06:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐏𝐚𝐠𝐢"
+var ucapanWaktu = "𝗚𝗼𝗼𝗱 𝗲𝘃𝗲𝗻𝗶𝗻𝗴"
  }
 if(time2 < "05:00:00"){
-var ucapanWaktu = "𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐌𝐚𝐥𝐚𝐦"
+var ucapanWaktu = "𝗘𝘃𝗲𝗻𝗶𝗻𝗴"
 }
 const wib = moment(Date.now()).tz("Africa/Nairobi").locale("id").format("HH:mm:ss z")
 const wita = moment(Date.now()).tz("Africa/Nairobi").locale("id").format("HH:mm:ss z")
@@ -348,7 +348,7 @@ var hawemod = [
 let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟑.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
-/*await delay(10)*/
+/*await delay(1)*/
 await zetsubo.sendMessage(from, {text: hawemod[i], edit: key });//PESAN LEPAS
 }
 }
@@ -377,7 +377,7 @@ participant: mek.key.participant
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['typing']
+let rn = ['recording']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
