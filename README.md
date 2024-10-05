@@ -23,9 +23,9 @@
 - FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
 ## `❗️𝐔𝐩𝐝𝐚𝐭𝐞𝐝❗️Deadpool Pair Code For Session`
-[𝐔𝐒𝐄 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄](https://dragon-deadpool-pair-2.onrender.com/pair)
+[𝐔𝐒𝐄 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄](https://confronter-session.onrender.com/pair)
 
-[𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://dragon-deadpool-pair-2.onrender.com/)
+[𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://confronter-session.on-render.com)
 
 # 💀```Deployment✝️```
   # ❄️SEE Tutorial how to deploy✔️
