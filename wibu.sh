@@ -16,5 +16,5 @@ echo "Bentar Coy,Install module dulu"
     
 echo "Okeh udah selesai sekarang lu tinggal path nya aja langsung npm start"
 
-    npm star
+    npm start
 echo "done"
