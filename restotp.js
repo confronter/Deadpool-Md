@@ -7,4 +7,4 @@ Mohon bantuan dari pihak WhatsApp untuk memulihkan akses ke akun saya.
 Terima kasih atas perhatian dan kerjasamanya.
 
 Akun Terkait`
-exports.restotp = restotp
+exports.restotp = restot
