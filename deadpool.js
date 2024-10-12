@@ -11,8 +11,8 @@ global.ownername = '𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫' //ubah jadi nama m
 //=================================================//
 global.owner = ['254796283064'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟑' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟑' // ubah aja ini nama sticker
+global.botname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟒' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐕𝟒' // ubah aja ini nama sticker
 global.author = '𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'session'  //Gausah Juga
@@ -30,7 +30,7 @@ V3 = Text
 V4 = Button
 
 */
-global.menutype = "v2"
+global.menutype = "v1"
 //=================================================//
 //Gausah Juga
 global.limitawal = {
