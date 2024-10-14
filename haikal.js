@@ -52,6 +52,9 @@ let caklontong_desk = db.data.game.lontong_desk = []
 let tebakkalimat = db.data.game.kalimat = []
 let tebaklirik = db.data.game.lirik = []
 let tebaktebakan = db.data.game.tebakan = []
+const { ios } = require("./lib/ios.js")
+const { andro } = require("./lib/andro.js")
+const dokupalsu = fs.readFileSync('./lib/image/zynxzo.apk')
 
 const yts = require('./scrape/yt-search')
 const { ytSearch } = require('./scrape/yt')
@@ -105,8 +108,7 @@ const isUser = pengguna.includes(m.sender)
 const content = JSON.stringify(m.message)
 const numberQuery = text.replace(new RegExp("[()+-/ +/]", "gi"), "") + "@s.whatsapp.net"
 const mentionByTag = m.mtype == "extendedTextMessage" && m.message.extendedTextMessage.contextInfo != null ? m.message.extendedTextMessage.contextInfo.mentionedJid : []
-const quoted = m.quoted ? m.quoted : m
-const mime = (quoted.msg || quoted).mimetype || ''
+const Input = mentionByTag[0] ? mentionByTag[0] : q ? numberQuery : false
 const time = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('HH:mm:ss z')
 const salam = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
 const bii = JSON.parse(fs.readFileSync('./baseikal/dbnye/wihh.json').toString())
@@ -646,7 +648,7 @@ user.afkReason = ''
 //=================================================//
 switch(command) {
 case 'menu': 
-case 'denzy':
+case 'dead':
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
 var sanzytod = [
 "_😍Hello My Name is 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫📌_",
@@ -654,10 +656,10 @@ var sanzytod = [
 "_✳️𝐂𝐨𝐮𝐧𝐭𝐫𝐲 : 𝐊𝐞𝐧𝐲𝐚🇰🇪",
 "_💭𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫_",
 "_🌚Thank you for waiting♥️_",
-`Hay Kak ${pushname} 👋 Selamat ${salam}
-Total Pengguna Premium :  ${owner.length}
+`Hey ${pushname} 👋 good ${salam}
+Total Premium :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
-Version 𝟒
+Deadpool Version 𝟒
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 𝐎𝐰𝐧𝐞𝐫 𝐦𝐞𝐧𝐮
 ♻️ 𝐏𝐢𝐧𝐠
@@ -683,7 +685,7 @@ Version 𝟒
 🤍 listban
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞
-🔏 hapusdb (628xx@s.whatsapp.net)
+🌾 hapusdb (628xx@s.whatsapp.net)
 🔏 listdb
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 𝐎𝐭𝐡𝐞𝐫 𝐦𝐞𝐧𝐮
@@ -954,7 +956,7 @@ break
 case 'randommenu': {
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
 await loading()
-m.reply(`Hay Kak ${pushname} 👋 Selamat ${salam}
+m.reply(`Hey ${pushname} 👋 Selamat ${salam}
 Total Pengguna Premium :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -1032,14 +1034,13 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝐁𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
   } 
 break
-case		
-runtime':
+case 'runtime':
                 let pinga = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕𝟒 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫.${runtime(process.uptime())}`
                 haikal.sendMessage(m.chat, {
                     text: pinga,
@@ -1049,7 +1050,7 @@ runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
+                            sourceUrl: 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -1069,7 +1070,7 @@ case 'sc': case 'script': case 'repo':
 case 'gasmenu': {
 if (!isCreator) return m.reply('*_Maaf, Sc Ini Bersifat Private_*')
 await loading()
-m.reply(`Hay Kak ${pushname} 👋 Selamat ${salam}
+m.reply(`Hey ${pushname} 👋 Selamat ${salam}
 Total Pengguna Premium :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
