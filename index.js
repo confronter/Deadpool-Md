@@ -76,7 +76,7 @@ const haikal = makeWASocket({
 logger: pino({ level: "silent" }),
 printQRInTerminal: !usePairingCode,
 auth: state,
-browser: ['Chrome (Linux)', '', '']
+browser: ["Ubuntu", "Chrome", "20.0.04"]
 });
 if(usePairingCode && !haikal.authState.creds.registered) {
 		const phoneNumber = await question('Motherfucker😂 put your number starting with Country Code 254:\n');
@@ -94,7 +94,14 @@ return decode.user && decode.server && decode.user + '@' + decode.server || jid
 }
 //=================================================//
 haikal.ev.on('messages.upsert', async chatUpdate => {
-try {
+       //console.log(JSON.stringify(chatUpdate, undefined, 2))
+    try{
+    mek = chatUpdate.messages[0];
+      if (autoviewstatus === 'TRUE' && mek.key && mek.key.remoteJid === "status@broadcast") {
+
+         haikal.readMessages([mek.key]);
+
+}
 mek = chatUpdate.messages[0]
 if (!mek.message) return
 mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
@@ -108,6 +115,9 @@ console.log(err)
 }
 })
 
+
+//=================================================//
+
 haikal.ev.on('call', async (celled) => {
 let botNumber = await haikal.decodeJid(haikal.user.id)
 let koloi = global.anticall
@@ -116,15 +126,14 @@ console.log(celled)
 for (let kopel of celled) {
 if (kopel.isGroup == false) {
 if (kopel.status == "offer") {
-let nomer = await haikal.sendTextWithMentions(kopel.from, `*${haikal.user.name}* 𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 𝐢𝐬 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫${kopel.isVideo ? `video` : `suara`}. 😍@${kopel.from.split('@')[0]} 𝐄𝐧𝐣𝐨𝐲 𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕𝟒`)
+let nomer = await haikal.sendTextWithMentions(kopel.from, `*${haikal.user.name}* can't receive voice call. Sorry  ${kopel.isVideo ? `video` : `user`}. ❗ @${kopel.from.split('@')[0]}  you will be blocked. If accidentally please contact the owner to be unblocked !!`)
 haikal.sendContact(kopel.from, owner.map( i => i.split("@")[0]), nomer)
 await sleep(8000)
 await haikal.updateBlockStatus(kopel.from, "block")
 }
 }
 }
-})
-//=================================================//
+})    
 haikal.ev.on('group-participants.update', async (anu) => {
 if (!wlcm.includes(anu.id)) return
 console.log(anu)
@@ -375,7 +384,7 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 connectToWhatsApp();
   }
 } else if (connection === "open") {
-  haikal.sendMessage('254796283064' + "@s.whatsapp.net", { text: `*𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥🫡*\n\n_𝐕𝟒 𝐒𝐭𝐚𝐫𝐭𝐞𝐝_\n\n* 𝐌𝐚𝐝𝐞 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫😍\n\n 𝗘𝗻𝗷𝗼𝘆 𝗕𝗼𝘁!\n\n 𝖣𝗈𝗇𝗍 𝖻𝖾 𝖬𝗈𝗍𝗁𝖾𝗋𝖿𝗎𝖼𝗄𝖾𝗋😂` });
+  haikal.sendMessage('966585488421' + "@s.whatsapp.net", { text: `*𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥🫡*\n\n_𝐕𝟒 𝐒𝐭𝐚𝐫𝐭𝐞𝐝_\n\n* 𝐌𝐚𝐝𝐞 𝐛𝐲 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫😍\n\n🇰🇪📌𝐌𝐚𝐝𝐞 𝐟𝐫𝐨𝐦 𝐊𝐞𝐧𝐲𝐚🇰🇪📌\n\n 𝖣𝗈𝗇𝗍 𝖻𝖾 𝖬𝗈𝗍𝗁𝖾𝗋𝖿𝗎𝖼𝗄𝖾𝗋😂` });
 }
 // console.log('Connected...', update)
 });
