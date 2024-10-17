@@ -11,25 +11,26 @@
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 😍🍭𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
-- [ GROUP ](https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [🔗𝐆𝐑𝐎𝐔𝐏 ](https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z)
+- [🔗𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
 ## 🔆🔆𝐎𝐰𝐧𝐞𝐫 𝐢𝐬 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫
 
-# 💀```Must fork the repository✝️```
+# 🍴𝐅𝐨𝐫𝐤 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [𝐅𝐎𝐑𝐊🍴](https://github.com/Confronter/Deadpool-Md/fork)
 
 ## `📍𝐏𝐀𝐈𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍`
 [𝐔𝐒𝐄 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄](https://confronter-session.onrender.com/pair)
 
 [𝐔𝐒𝐄 𝐅𝐔𝐋𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://confronter-session.onrender.com/)
 
-# 💀```Deployment✝️```
+# ☘️🖤𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
+  
   # ❄️SEE Tutorial how to deploy✔️
-[Video Tutorial](https://t.me/dragonbugkiller/31)
+[𝐖𝐀𝐓𝐂𝐇 𝐕𝐈𝐃𝐄𝐎](https://t.me/dragonbugkiller/31)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -49,10 +50,12 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## 📌😎𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐒𝐜𝐫𝐢𝐩𝐭 𝐑𝐮𝐧 𝐨𝐧 𝐚𝐧𝐲 𝐩𝐚𝐧𝐞𝐥
 [𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃⬇️](https://github.com/confronter/Deadpool-Md/archive/refs/heads/main.zip)
 
+# 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐬 𝐑𝐞𝐧𝐝𝐞𝐫
+[𝐆𝐢𝐭 𝐋𝐢𝐧𝐤](https://github.com/confronter/Deadpool-Md.git)
 
-## 💀Developer
+## 🇰🇪𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
-  - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+- [𝐅𝐎𝐋𝐋𝐎𝐖 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://instagram.com/confronter._)
+- [𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐄](https://wa.me/254796283064)
 ## THANKS✝️💛
   
