@@ -2,7 +2,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39'
+global.gr = 'https://chat.whatsapp.com/FqvQzWARlwc7XlerabWq7z'
 global.ig = 'confronter._' // ubah aja
 global.email = 'confrontermfisa@gmail.com' //serah
 global.region = 'kenya' // serah
@@ -20,7 +20,7 @@ global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.wlcm = []
 global.wlcmm = []
-global.anticall = true
+global.anticall = false
 /*
 Declaring Menu type
 
