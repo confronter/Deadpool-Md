@@ -2,9 +2,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/8c7d8176e16d36ab5ad6c.jpg" />
-</p>
-
 <p align="center">
 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
@@ -37,7 +34,7 @@ heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-*Add your Creds.json to Classic file
+*Add your Creds.json to Session file
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
